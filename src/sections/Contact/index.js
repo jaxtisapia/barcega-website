@@ -9,7 +9,7 @@ const Contact = () => {
       <ContentContainer>
         <Title>Contact Us</Title>
         <Desc>
-          Our Office is located in No. 2 4th St E, North Legon (a minute away from Univeristy of Ghana, TF entrance)
+          Our Office is located in No. 2 4th St E, North Legon (a minute away from the Univeristy of Ghana, TF entrance)
         </Desc>
 
         <Desc>
