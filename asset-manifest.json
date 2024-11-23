@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5caafebc.css",
+    "main.js": "/static/js/main.4f7fe814.js",
+    "static/js/453.7ee4257d.chunk.js": "/static/js/453.7ee4257d.chunk.js",
+    "static/media/interior2.jpg": "/static/media/interior2.4a5f34a5df02d9c3236e.jpg",
+    "static/media/interior.jpg": "/static/media/interior.fddcd5e1ff09ee365abd.jpg",
+    "static/media/discount.png": "/static/media/discount.a2059770dcb8ab4258fa.png",
+    "static/media/image.jpg": "/static/media/image.1c1f017528b16b74ba83.jpg",
+    "static/media/interior3.jpg": "/static/media/interior3.cc1fd09869780282a55e.jpg",
+    "static/media/image2.jpg": "/static/media/image2.56816bda61691c61c1bb.jpg",
+    "static/media/interior1.jpg": "/static/media/interior1.7101e9b50540c3de3a0a.jpg",
+    "static/media/imge1.jpg": "/static/media/imge1.8ba7911a1a426e7eb195.jpg",
+    "static/media/map.png": "/static/media/map.cae0ba86633d3624da51.png",
+    "static/media/Montserrat-Black.ttf": "/static/media/Montserrat-Black.e4ac0e216b528d945a83.ttf",
+    "static/media/Montserrat-Italic.ttf": "/static/media/Montserrat-Italic.ce3a49f8e6c790a13ba0.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.2a2d37bf7680d86811db.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.647f0e61af3a76a138c3.ttf",
+    "static/media/Montserrat-Thin.ttf": "/static/media/Montserrat-Thin.53139ad3e8e638609181.ttf",
+    "static/media/Gotham-Light.otf": "/static/media/Gotham-Light.a21d1577f411612a2753.otf",
+    "static/media/appleStore.png": "/static/media/appleStore.69cfe4f22d7a062caf51.png",
+    "static/media/playStore.png": "/static/media/playStore.ce32d16591d8b5053edf.png",
+    "static/media/react.svg": "/static/media/react.00fa8ae48c11168d01e6233ef82f126d.svg",
+    "index.html": "/index.html",
+    "main.5caafebc.css.map": "/static/css/main.5caafebc.css.map",
+    "main.4f7fe814.js.map": "/static/js/main.4f7fe814.js.map",
+    "453.7ee4257d.chunk.js.map": "/static/js/453.7ee4257d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5caafebc.css",
+    "static/js/main.4f7fe814.js"
+  ]
+}
