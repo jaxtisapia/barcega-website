@@ -78,7 +78,6 @@ export const InnerContainer = styled.div`
 export const Title = styled.h1`
   font-size: 50px;
   color: #303030;
-  font-family: sans-serif;
   @media (max-width: 1345px) {
     font-size: 40px;
   }

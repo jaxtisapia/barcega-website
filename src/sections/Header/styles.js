@@ -92,20 +92,23 @@ export const RightSide = styled.div`
   }
 `;
 export const LeftTitle = styled.h1`
-  padding-right: 20px;
-  font-size: 80px;
+  padding: 20px 40px 20px 0px;
+  font-size: 48px;
   position: relative;
   color: #303030;
   background-color: white;
   z-index: 1;
   width: max-content;
-  font-family: sans-serif;
   margin-bottom: 0;
+  letter-spacing: 5px;
+  word-spacing: 8px;
+  
+  
   @media (max-width: 1440px) {
-    font-size: 60px;
+    font-size: 36px;
   }
   @media (max-width: 1100px) {
-    font-size: 50px;
+    font-size: 30px;
   }
   @media (max-width: 768px) {
     display: none;

@@ -43,7 +43,6 @@ export const ContentContainer = styled.div`
 export const Title = styled.h1`
   font-size: 50px;
   color: #414141;
-  font-family: sans-serif;
   text-transform: uppercase;
   @media (max-width: 1100px) {
     font-size: 40px;

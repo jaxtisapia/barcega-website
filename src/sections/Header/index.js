@@ -40,10 +40,9 @@ const Header = () => {
               <Item href="/" active>
                 HOME
               </Item>
-              <Item href="#about">ABOUT</Item>
-              <Item href="#service">SERVICE</Item>
-              <Item href="#project">PROJECT</Item>
-              <Item href="#contact">CONTACT</Item>
+              <Item href="/about">ABOUT US</Item>
+              <Item href="/projects">PROJECTS</Item>
+              <Item href="/contact-us">CONTACT</Item>
             </Nav>
           </NavBarCollapse>
         </Navbar>

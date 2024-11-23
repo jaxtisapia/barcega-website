@@ -1,4 +1,8 @@
 @font-face {
+    font-family: Montserrat-Thin;
+    src: url('../fonts/montserrat/Montserrat-Thin.ttf');
+}
+@font-face {
     font-family: Montserrat-Regular;
     src: url('../fonts/montserrat/Montserrat-Regular.ttf');
 }
@@ -29,4 +33,8 @@ body, html {
     height: 100%;
     font-family: Montserrat-Regular, sans-serif;
     font-weight: 400;
+}
+
+h1 {
+    font-family: Montserrat-Regular, sans-serif;
 }

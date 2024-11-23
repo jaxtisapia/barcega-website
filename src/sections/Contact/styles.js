@@ -50,7 +50,6 @@ export const ContentContainer = styled.div`
 export const Title = styled.h1`
   font-size: 50px;
   color: #414141;
-  font-family: sans-serif;
   text-transform: uppercase;
   @media (max-width: 980px) {
     font-size: 40px;
@@ -63,7 +62,6 @@ export const Title = styled.h1`
 export const Desc = styled.h1`
   font-size: 25px;
   color: #b6b6b6;
-  font-family: sans-serif;
   width: 70%;
   @media (max-width: 1200px) {
     width: 100%;

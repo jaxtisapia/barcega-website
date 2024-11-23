@@ -26,7 +26,6 @@ export const InnerContainer = styled.div`
 export const Title = styled.h1`
   font-size: 50px;
   color: #ffff;
-  font-family: sans-serif;
   text-align: center;
   text-transform: uppercase;
   padding-bottom: 30px;
