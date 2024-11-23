@@ -50,8 +50,8 @@ const Header = () => {
       <ContainerOne>
         <LeftSide>
           <div>
-            <LeftTitle>DISCOVER LUXURY</LeftTitle>
-            <LeftTitle>INTERIOR DESIGN</LeftTitle>
+            <LeftTitle>Sophisticated Simplicity,</LeftTitle>
+            <LeftTitle>Sustainably Crafted Homes</LeftTitle>
             <LeftDesc>
               We serve all types of interior design for both your private home
               and your company
