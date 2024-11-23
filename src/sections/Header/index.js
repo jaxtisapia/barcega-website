@@ -32,7 +32,7 @@ const Header = () => {
         <Navbar expand="lg">
           <NavBarBrand href="#home">
             <img src={logo} height={50} width={50} alt="logo" />
-            <Title>AGERIOR</Title>
+            <Title>Barcega</Title>
           </NavBarBrand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <NavBarCollapse id="basic-navbar-nav">
@@ -40,9 +40,9 @@ const Header = () => {
               <Item href="/" active>
                 HOME
               </Item>
-              <Item href="/about">ABOUT US</Item>
+              <Item href="/#contact-us">ABOUT US</Item>
               <Item href="/projects">PROJECTS</Item>
-              <Item href="/contact-us">CONTACT</Item>
+              <Item href="/#contact-us">CONTACT</Item>
             </Nav>
           </NavBarCollapse>
         </Navbar>

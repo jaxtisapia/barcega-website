@@ -4,7 +4,7 @@ import Map from "../../assets/map.png";
 
 const Contact = () => {
   return (
-    <Container>
+    <Container id="contact-us">
       <MapImg src={Map} alt="map" />
       <ContentContainer>
         <Title>Contact Us</Title>
