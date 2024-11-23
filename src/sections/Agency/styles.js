@@ -93,6 +93,8 @@ export const Desc = styled.h1`
   font-size: 25px;
   color: #767878;
   font-weight: 400;
+  line-height: 35px;
+
   @media (max-width: 1345px) {
     font-size: 20px;
   }

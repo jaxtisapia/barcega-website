@@ -1,14 +1,5 @@
 import React from "react";
-import {
-  Container,
-  ContentContainer,
-  Desc,
-  Image,
-  ImgContainer,
-  InnerContainer,
-  ReadBtn,
-  Title,
-} from "./styles";
+import {Container, ContentContainer, Desc, Image, ImgContainer, InnerContainer, ReadBtn,} from "./styles";
 import SofaPic from "../../assets/image2.jpg";
 
 const Agency = () => {
@@ -19,12 +10,14 @@ const Agency = () => {
       </ImgContainer>
       <ContentContainer>
         <InnerContainer>
-          <Title>AGERIOR AGENCY</Title>
+          {/*<Title>AGERIOR AGENCY</Title>*/}
           <Desc>
-            We are an agent engaged in interior design that provides interior
-            design and renovation services for home or office.
+            At Barcega, we craft unique, sustainable homes that blend modern design with timeless comfort
           </Desc>
-          <ReadBtn>Read More</ReadBtn>
+          <Desc>
+            Thoughtful and refined, our properties are built to inspire and endure.
+          </Desc>
+          <ReadBtn>Discover More</ReadBtn>
         </InnerContainer>
       </ContentContainer>
     </Container>

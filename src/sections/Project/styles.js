@@ -15,6 +15,7 @@ export const Container = styled.div`
   display: flex;
   padding: 50px 10%;
   animation: ${fadeIn} 1.2s ease-in-out;
+  background: #f9f9f9;
   @media (max-width: 1630px) {
     padding: 50px 5%;
   }

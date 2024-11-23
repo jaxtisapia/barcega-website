@@ -14,7 +14,7 @@ const fadeIn = keyframes`
 export const Container = styled.div`
   display: flex;
   padding: 50px 10%;
-  background-color: #f9f9f9;
+  background-color: #fff;
   animation: ${fadeIn} 1.2s ease-in-out;
   @media (max-width: 980px) {
     display: block;
@@ -28,7 +28,10 @@ export const Container = styled.div`
 `;
 
 export const MapImg = styled.img`
-  width: 50%;
+  width:50%;
+  border-radius: 10% 40% 10% 0%;
+  padding: 40px;
+  
   @media (max-width: 980px) {
     width: 100%;
   }
@@ -48,7 +51,7 @@ export const ContentContainer = styled.div`
   }
 `;
 export const Title = styled.h1`
-  font-size: 50px;
+  font-size: 24px;
   color: #414141;
   text-transform: uppercase;
   @media (max-width: 980px) {
@@ -59,18 +62,22 @@ export const Title = styled.h1`
   }
 `;
 
-export const Desc = styled.h1`
-  font-size: 25px;
-  color: #b6b6b6;
-  width: 70%;
-  @media (max-width: 1200px) {
-    width: 100%;
+
+export const Desc = styled.p`
+  padding-right: 134px;
+  font-size: 16px;
+  color: #767878;
+  font-weight: 400;
+  margin-top: 25px;
+  
+  @media (max-width: 1440px) {
+    font-size: 16px;
   }
-  @media (max-width: 980px) {
-    font-size: 20px;
+  @media (max-width: 1100px) {
+    font-size: 12px;
   }
-  @media (max-width: 500px) {
-    font-size: 17px;
+  @media (max-width: 768px) {
+    display: none;
   }
 `;
 

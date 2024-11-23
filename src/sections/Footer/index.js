@@ -46,8 +46,7 @@ const Footer = () => {
         </TitleContainer>
       </ContentContainer>
       <CopyRight>
-        Copyright &copy; 2020 All rights reserved | Blcok us made by Muddasar
-        Chaudhry
+        Copyright &copy; 2024 All rights reserved
       </CopyRight>
       <IconContainer>
         <IconStyle className="bi bi-slack"></IconStyle>

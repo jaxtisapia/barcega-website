@@ -129,7 +129,7 @@ export const LftTitle = styled(LeftTitle)`
   }
 `;
 
-export const LeftDesc = styled.h1`
+export const LeftDesc = styled.p`
   padding-right: 134px;
   font-size: 25px;
   color: #767878;

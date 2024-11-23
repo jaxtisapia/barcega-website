@@ -14,7 +14,7 @@ export const HomePage = ()=>{
         <Service />
         <Project />
         <Contact />
-        <Discount />
+        {/*<Discount />*/}
         <Footer />
     </div>
 }
