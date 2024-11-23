@@ -112,7 +112,7 @@ export const ReadBtn = styled.button`
   color: white;
   padding: 10px 30px;
   margin-top: 20px;
-  font-weight: 600;
+
   @media (max-width: 1080px) {
     padding: 5px 20px;
   }
