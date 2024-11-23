@@ -1,5 +1,7 @@
 import "./App.css";
-import "bootstrap/dist/css/bootstrap.min.css";
+import "./assets/css/bootstrap.css"
+import "./assets/css/main.css"
+
 import Header from "./pages/Header";
 import Agency from "./pages/Agency";
 import Service from "./pages/Service";
