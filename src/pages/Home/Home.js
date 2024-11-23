@@ -11,7 +11,7 @@ export const HomePage = ()=>{
     return <div className="app">
         <Header />
         <Agency />
-        <Service />
+        {/*<Service />*/}
         <Project />
         <Contact />
         {/*<Discount />*/}

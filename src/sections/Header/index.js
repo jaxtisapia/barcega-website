@@ -60,10 +60,10 @@ const Header = () => {
             <AboutBtn>Our Projects</AboutBtn>
           </div>
           <IconContainer>
-            <IconStyle className="bi bi-slack"></IconStyle>
-            <IconStyle className="bi bi-facebook"></IconStyle>
+            <IconStyle className="bi bi-telephone"></IconStyle>
             <IconStyle className="bi bi-whatsapp"></IconStyle>
-            <IconStyle className="bi bi-pinterest"></IconStyle>
+            <IconStyle className="bi bi-instagram"></IconStyle>
+            <IconStyle className="bi bi-at"></IconStyle>
           </IconContainer>
         </LeftSide>
         <RightSide>

@@ -68,8 +68,8 @@ export const Desc = styled.h1`
 
 export const CopyRight = styled.h1`
   text-align: center;
-  color: #7f7f7f;
-  font-size: 17px;
+  color: white;
+  font-size: 13px;
 `;
 
 export const IconContainer = styled.div`

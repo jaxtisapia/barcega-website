@@ -14,7 +14,7 @@ const fadeIn = keyframes`
 export const Container = styled.div`
   display: flex;
   width: 100%;
-  margin-bottom: 50px;
+  margin-bottom: 200px;
   animation: ${fadeIn} 1.2s ease-in-out;
   @media (max-width: 768px) {
     display: block;
