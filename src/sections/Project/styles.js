@@ -42,30 +42,32 @@ export const ContentContainer = styled.div`
 `;
 
 export const Title = styled.h1`
-  font-size: 50px;
+  font-size: 28px;
   color: #414141;
+  font-family: Montserrat-Medium,sans-serif;
+
   text-transform: uppercase;
   @media (max-width: 1100px) {
-    font-size: 40px;
+    font-size: 20px;
   }
   @media (max-width: 900px) {
     margin-top: 100px;
   }
   @media (max-width: 650px) {
-    font-size: 30px;
+    font-size: 15px;
   }
 `;
 
-export const SubTitle = styled.h1`
-  font-size: 26px;
+export const SubTitle = styled.p`
+  font-size: 16px;
+  font-family: Montserrat-Medium,sans-serif;
   color: #414141;
   font-weight: 300;
   text-transform: uppercase;
   padding-bottom: 30px;
   display: flex;
-  align-items: center;
-  justify-content: center;
   width: 48%;
+  
   @media (max-width: 1100px) {
     font-size: 18px;
   }
@@ -89,7 +91,7 @@ export const Span = styled.span`
 `;
 
 export const Desc = styled.h1`
-  font-size: 25px;
+  font-size: 16px;
   color: #b8b8b8;
   width: 80%;
   font-weight: 300;

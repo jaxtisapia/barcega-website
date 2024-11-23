@@ -13,10 +13,13 @@ const fadeIn = keyframes`
 `;
 
 export const Title = styled.h1`
-  font-size: 30px;
+  font-size: 16px;
   font-weight: 600;
   color: #303030;
   margin-bottom: 0;
+  font-family: Gotham-Light,sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 4px;
 `;
 export const Item = styled(Nav.Link)`
   font-size: 17px;
@@ -32,6 +35,7 @@ export const Item = styled(Nav.Link)`
 export const NavBarBrand = styled(Navbar.Brand)`
   display: flex;
   align-items: center;
+  gap: 12px;
 `;
 
 export const NavBarCollapse = styled(Navbar.Collapse)`
@@ -117,15 +121,9 @@ export const LeftTitle = styled.h1`
 
 export const LftTitle = styled(LeftTitle)`
   display: none;
-  padding-left: 50px;
+  padding-left: 30px;
   @media (max-width: 768px) {
     display: block;
-  }
-  @media (max-width: 560px) {
-    font-size: 40px;
-  }
-  @media (max-width: 455px) {
-    font-size: 30px;
   }
 `;
 

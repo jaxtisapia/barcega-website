@@ -1,4 +1,8 @@
 @font-face {
+    font-family: Gotham-Light;
+    src: url('../fonts/gotham/Gotham-Light.otf');
+}
+@font-face {
     font-family: Montserrat-Thin;
     src: url('../fonts/montserrat/Montserrat-Thin.ttf');
 }
