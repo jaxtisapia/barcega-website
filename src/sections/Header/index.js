@@ -52,11 +52,12 @@ const Header = () => {
           <div>
             <LeftTitle>Sophisticated Simplicity,</LeftTitle>
             <LeftTitle>Sustainably Crafted Homes</LeftTitle>
+
             <LeftDesc>
-              We serve all types of interior design for both your private home
-              and your company
+              We design, build, and sell unique homes, offering exclusive real estate tailored to your lifestyle
             </LeftDesc>
-            <AboutBtn>About Us</AboutBtn>
+
+            <AboutBtn>Our Projects</AboutBtn>
           </div>
           <IconContainer>
             <IconStyle className="bi bi-slack"></IconStyle>
